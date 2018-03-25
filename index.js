@@ -8,5 +8,8 @@ function theBeatlesPlay(musicians, instuments){
 }
 
 function johnLennonFacts(array){
-  var newString = []
+  var newArray = []
+  while (var i < array.length) {
+    
+  }
 }
