@@ -25,6 +25,6 @@ function iLoveTheBeatles (num){
   do {
     newArray.push("I love the Beatles!")
   }
-  while (newArray.length < num)
+  while (newArray.length <= num)
   return newArray
 }
