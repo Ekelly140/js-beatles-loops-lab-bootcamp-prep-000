@@ -23,7 +23,7 @@ function iLoveTheBeatles (num){
   var newArray = []
   
   do {
-    newArray.push("I love )
+    newArray.push("I love the Beatles!")
   }
-  while 
+  while (newArray.length < num)
 }
