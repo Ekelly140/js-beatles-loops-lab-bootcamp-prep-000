@@ -12,7 +12,7 @@ function johnLennonFacts(array){
   var i = array.length-1
   while (i >= 0) {
     console.log(i)
-    newString = array[i] + "!!!"
+    var newString = array[i] + "!!!"
     newArray.unshift(newString)
     i--
   }
