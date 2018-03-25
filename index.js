@@ -18,3 +18,12 @@ function johnLennonFacts(array){
   }
   return newArray
 }
+
+function iLoveTheBeatles (num){
+  var newArray = []
+  
+  do (){
+    
+  }
+  while 
+}
